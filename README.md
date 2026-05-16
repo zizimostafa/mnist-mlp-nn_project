@@ -13,8 +13,9 @@ Experiments:
 - Tanh activation
 
 Results:
-- ReLU Accuracy: ~97%
-- Tanh Accuracy: ~81%
+- ReLU Accuracy: 97.85%
+
+- Tanh Accuracy:97.50%
 
 Tools:
 - PyTorch
